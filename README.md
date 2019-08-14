@@ -1,2 +1,2 @@
 # hello-world
-Trying my first Repository 
+Hey there I'm trying my first Repository 
